@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/donate-paypal-yellowgreen.svg)](https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4)
 [![Discord](https://img.shields.io/discord/432663330281226270?color=728ED5&logo=discord&label=discord)](https://discord.gg/ahVq54p)
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ahVq54p)
+[![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ahVq54p)
 [![Twitter](https://img.shields.io/discord/432663330281226270?color=728ED5&logo=twitter&label=twitter)](https://twitter.com/4Xsample)
 
 
