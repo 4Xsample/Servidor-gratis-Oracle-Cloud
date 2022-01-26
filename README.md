@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/donate-paypal-yellowgreen.svg)](https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4)
+
 <a href="https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 <a href="https://discord.gg/ahVq54p">
