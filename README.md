@@ -1,8 +1,12 @@
 [![Donate](https://img.shields.io/badge/donate-paypal-yellowgreen.svg)](https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4)
 [![Discord](https://img.shields.io/discord/432663330281226270?color=728ED5&logo=discord&label=discord)](https://discord.gg/ahVq54p)
-[![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ahVq54p)
 [![Twitter](https://img.shields.io/discord/432663330281226270?color=728ED5&logo=twitter&label=twitter)](https://twitter.com/4Xsample)
-
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+            alt="chat on Discord"></a>
+    <a href="https://twitter.com/4xsample/follow?screen_name=shields_io">
+        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
 
 # Servidor-gratuït-Oracle-Cloud
  
