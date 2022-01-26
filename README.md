@@ -1,6 +1,6 @@
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a></br>
 
 <a href="https://discord.gg/ahVq54p">
 <img src="https://img.shields.io/discord/667340023829626920?logo=discord" alt="chat on Discord"></a>
