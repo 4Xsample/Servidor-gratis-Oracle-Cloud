@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/donate-paypal-yellowgreen.svg)](https://www.paypal.com/donate/?hosted_button_id=EFVMSRHVBNJP4)
     <a href="https://discord.gg/ahVq54p">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+        <img src="https://img.shields.io/discord/667340023829626920?logo=discord"
             alt="chat on Discord"></a>
     <a href="https://twitter.com/4xsample/follow?screen_name=shields_io">
         <img src="https://img.shields.io/twitter/follow/4xsample?style=social&logo=twitter"
