@@ -25,3 +25,6 @@ A partir d'aquí ja teniu una màquina virtual gratuita per jugar i experimentar
 
 ## Important
 si voleu fer servir aquesta màquina virtual de servidor heu d'entrar al vostre Dashboard, buscar l'apartat de Virtual Cloud Networks i entrar a la vostre subxarxa fins a trobar "Default Security List for latevaxarxa" i obrir els ports l'origen ha de ser 0.0.0.0/0 i el port o rang de ports d'entrada i desti que volgueu posar (es molt recomanable omplir les descripcions per quan s'us acumulin ports oberts).
+
+## Disclaimer: 
+*Aquest codi s'ofereix tal com és i no es garanteix que funcioni correctament en totes les condicions. No em faig responsable dels danys que puguin resultar de l'ús d'aquesta informació. Utilitzeu-lo sota la vostra pròpia responsabilitat. Si teniu dubtes pregunteu i respondré al que pugui. Si voleu obrir proposar cambis podeu obrir fork i i voleu seguir-me, al panel del principi d'aquest readme podeu trobar links a les meves xarxes socials, Twitch i PayPal per si també voleu donar suport al meu treball.*
